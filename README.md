@@ -16,4 +16,4 @@ This project provides hands-on practice with web scraping, API data extraction, 
 
 Made for a Programming Text course project.
 
-**Note**: code starts in the TUGAS WEEK 3 — Web Scraping section of the notebook.
+**Note**: code starts in the TUGAS WEEK 3&4 — Web Scraping-Text Processing section of the notebook.
